@@ -41,6 +41,8 @@ How to Run
 
 4. 🎤 Speak or type your command when prompted!
 
+Make sure you have provided your API Key
+
 Problems Zexa AI Solves
 
 ❌ Manual opening of apps and typing commands repeatedly
@@ -62,5 +64,4 @@ Future Enhancements
 ☀️ Calendar and Weather API features
 🌍 Multilingual support
 
-License
 This project is licensed under the MIT License.
