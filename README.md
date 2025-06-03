@@ -1,6 +1,7 @@
 Zexa AI - Your Personal AI Desktop Assistant
 
 Overview
+
 Zexa AI is an intelligent desktop assistant that listens, understands, and performs tasks through natural voice or typed commands. Whether you want to open applications, play music, search the web, or ask questions powered by OpenAI, Zexa AI is ready to assist. It’s designed for users who value productivity, accessibility, and smart interaction.
 
 Features
